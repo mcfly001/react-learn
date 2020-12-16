@@ -1,10 +1,9 @@
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- *
- * @flow
+/*
+ * @Descripttion: react 入口文件
+ * @Author: 豆豉
+ * @Date: 2020-12-15 05:23:26
+ * @LastEditors: 豆豉
+ * @LastEditTime: 2020-12-16 14:09:29
  */
 
 import ReactVersion from 'shared/ReactVersion';
